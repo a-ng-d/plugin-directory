@@ -7,7 +7,6 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Abstract](https://goabstract.com/), by Abstract: Abstract lets you manage, version, and document your designs in one place
 - [AEUX](https://github.com/google/sketch2ae), by Battle Axe: Transfer layer to After Effects
 - [Artboard Tools](https://github.com/frankko/artboard-tools), by Frank Kolodziej: Sketch.app plugins for arranging artboards and navigating between artboards.
-- [autorename](https://github.com/dchahla/autorename), by dchahla: Lightweight, low-fi Auto Name Group ( ⌘ + g ) Sketch Plugin
 - [Awesome Ipsums](https://github.com/inVoltag/awesome-ipsums), by Aurélien Grimaud: Generate ipsums from an external Google spreadsheet. Make these datas collaborative!
 - [Batch Create Symbols](https://github.com/demersdesigns/sketch-batch-create-symbols), by Paul Demers: A plugin for Sketch to convert selected layers to individual symbols.
 - [Brandfetch](https://github.com/Brandfetch/Brandfetch-Sketch-Plugin), by Brandfetch: Pull brand assets into Sketch
@@ -118,4 +117,3 @@ A list of Sketch plugins hosted at GitHub, in alphabetical order.
 - [Sketch Move Half Pixel](https://github.com/canisminor1990/sketch-move-half-pixel), by Canis Minor: 🐾 Move layers half pixel
 - [Sketch Guides](https://github.com/luvmex/sketch-guides), by Celyn Xie: Add Guides to edges and midpoints at once.
 - [CodeWave](https://github.com/netease-lcap/sketch-plugin), by liuyiqi: 导出 Sketch 设计稿中的任意部分到 CodeWave
-- [autorename](https://github.com/dchahla/autorename), by dchahla: Lightweight, low-fi Auto Name Group ( ⌘ + g ) Sketch Plugin
